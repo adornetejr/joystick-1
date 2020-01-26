@@ -1,5 +1,5 @@
 # Furgbol Joystick
-Project to develop the functionalities of the XBox360 joystick.
+In our project it is necessary that we have a way to test our artificial intelligence strategies manually. The control of robots via joystick provides us with exactly this functionality.
 
 # Contents
 
